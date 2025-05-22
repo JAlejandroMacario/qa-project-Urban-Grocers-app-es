@@ -1,13 +1,17 @@
 # Proyecto Urban Grocers
 
+*SPRINT 7 -- JORGE ALEJANDRO MACARIO COLÍN*
+
+Este es un proyecto de automatización de pruebas API escrito en Python y creado en PyChram. Para llevarse a cabo es necesario descargar los paquetes "request" y "pytest".
+
+
 *PASOS A SEGUIR:*
 
 1. Abre el proyecto "qa-project-Urban-Grocers-app-es" en PyCharm.
 2. Asegúrate de que los paquetes "request" y "pytest" estén descargados y actualizados. De no estar instalados o actualizados, descarga y actualiza los 2 paquetes. 
 3. Selecciona el archivo configuration.py para actualizar la URL por la de un servidor nuevo. 
-4. Selecciona el archivo "create_kit_name_kit_test.py" para correr desde ahí el programa
-5. En la pestaña superior, en el botón "v" (Flecha). En la barra superior de PyCharm, asegurarse que la lista a la hora de desplegar los elemetos diga "Current File".
-6. Has clic en el botón de "Play" que está al lado de "Current File".  
+4. Selecciona el archivo "create_kit_name_kit_test.py" y asegúrese de que esté seleccionada la opción "Current File". 
+5. Corra las pruebas desde la terminal usando: "pytest create_kit_name_kit_test.py", o haciendo clic en el botón de "Play" junto a "Current File".
 
 *LISTA DE COMPROBACIÓN PARA LA AUTOMATIZACIÓN DE PRUEBAS:*
 
